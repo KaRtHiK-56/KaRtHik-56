@@ -11,6 +11,6 @@ Name - 😍 Karthik 😉
 - <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/> INSTAGRAM : https://www.instagram.com/_.pythonista._/
 - <img src="https://img.icons8.com/material-rounded/24/000000/medium-logo.png"/> MEDIUM : https://karthikvegeta.medium.com/
 - <img src="https://img.icons8.com/material-outlined/24/000000/gmail-new.png"/>  GMAIL : karthiksurya611@gmail.com
-- ⚡ Fun fact: I'm inspired by Tony Stark ✌️ and Motivated by 💪 Prince Vegeta ♕
+- ⚡ Fun fact: I got inspired by Tony Stark ✌️ and Motivated by 💪 Prince Vegeta ♕
 
 
