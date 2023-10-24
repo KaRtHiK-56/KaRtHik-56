@@ -3,21 +3,30 @@
 Name - 😍 Karthik 😉
 
 # 💫 About Me:
-Self-driven and Aspiring Engineer, Currently involved myself in the stream of Artificial intelligence.Passionate and Thriving Engineer Who Can Apply Techniques for data driven decision making and Knowledge to Develop and Solve Real-World Industry Problem by Adding Value to it.
+Self-driven and Aspiring Engineer with a keen focus on Artificial Intelligence. Demonstrated dedication and enthusiasm toward applying data-driven decision-making techniques to solve real-world industry challenges. Equipped with the knowledge and skills to add substantial value through the development and implementation of innovative solutions. Committed to contributing to the advancement of the field and making a meaningful impact on the industry.
 
-I am an optimistic, hardworking, and enthusiastic person looking forward to a good and challenging platform to showcase my skills and learn from new perspective. Whatever goals I set or be given, I ensure to complete them within the stipulated time. An Organized and motivated person able to apply time management and organizational skills in various environments.
+I am a driven and optimistic individual eagerly seeking a dynamic and demanding platform to demonstrate my skill set while gaining fresh insights. I look at every task with diligence, making sure that the set objectives are completed. My strong organizational and time management abilities empower me to excel across diverse settings.
 
-My skills are concentrated in the area of Python, Artificial intelligence, statistics,MySQL,GUI(tkinter),Data analysis,Machine learning,Deep learning and web development(HTML,CSS, BOOTSTRAP).
+My expertise lies within the domain of Python, Artificial Intelligence, Data Analysis, and Machine Learning.
 
-My final year project:
-Early warning heart disease prediction system using machine learning.
+Technical Proficiencies:
 
-Also did a few mini projects in machine learning
-1. Layoff Data analysis 
-2. stock market prediction 
-3. Customer segmentation
-4. Customer review classification
+* Python 3
+* Statistics
+* MySQL
+* Data Analytics 
+* Machine Learning
+* GenerativeAI
+* PowerBI
 
+For my culminating project during the final year of my studies, I developed an Early warning heart disease prediction system utilizing machine learning to predict heart disease.
+
+Additionally, I have successfully completed various projects in machine learning,
+
+1. Layoffs Data Analysis
+2. Israel vs Hamas Data Analysis
+3. Auto ML WebAPP
+4. 
 In web development 
 1. Recent trends happening in industries regarding layoff.
 2. personal portfolio
@@ -26,13 +35,13 @@ In web development
  
 Completed my graduation in Engineering in the stream of Electronics and communication with [7.97 CGPA].
 
-My path for Artificial Intelligence started in 2020 where I was attracted to the way it functions. Since then my keen and interest in AI has never been down and wanted to contribute and provide solutions in this domain. For sure in the near future, I will be on my way to contributing and currently working on becoming an Artificial Intelligence Engineer.Seeking to use my skills and knowledge to make a positive impact as a data scientist.
+My path to Artificial Intelligence started in 2020 when I was attracted to the way it functions. Since then my interest in AI has never been down and wanted to contribute and provide solutions in this domain. For sure in the near future, I will be on my way to contributing, and currently working on becoming an Artificial Intelligence Engineer.Seeking to use my skills and knowledge to make a positive impact as a data scientist.
 
-I'm a quick learner and enthusiastic about participating extra curricular activities, with my talent I'm looking for an opportunity to take the next step in my career.
+I'm a quick learner and enthusiastic about participating in extracurricular activities, with my talent I'm looking for an opportunity to take the next step in my career.
 
 - 🔭 I’m currently working on to improve myself
 - 🌱 I’m currently learning Python3
-- 💬 Soon in near future ask me about Artificial Intelligence stuffs
+- 💬 Soon in the near future ask me about Artificial Intelligence stuff
 - 📫 How to reach me: 
 - <img src="https://img.icons8.com/ios-glyphs/30/000000/portfolio.png"/> PORTFOLIO : https://karthikpersonalportfolio56.000webhostapp.com/index.html
 - <img src="https://img.icons8.com/material-outlined/24/000000/blog.png"/> BLOG : https://sites.google.com/view/karthikaiblogs/home    
