@@ -2,6 +2,9 @@
 
 Name - 😍 Karthik 😉
 
+<img align="center" alt="Coding" width="100%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47um1gkb3zg6to5wp9o6bopii1ihmhoh96lzvfzmlb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+
 # 💫 About Me:
 Self-driven and Aspiring Engineer with a keen focus on Artificial Intelligence. Demonstrated dedication and enthusiasm toward applying data-driven decision-making techniques to solve real-world industry challenges. Equipped with the knowledge and skills to add substantial value through the development and implementation of innovative solutions. Committed to contributing to the advancement of the field and making a meaningful impact on the industry.
 
