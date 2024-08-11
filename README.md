@@ -63,7 +63,7 @@ I'm a quick learner and enthusiastic about participating in extracurricular acti
 ![](https://github-contributor-stats.vercel.app/api?username=KaRtHiK-56&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ### 📈 My Github Contibution
-![snake gif](https://github.com/AravindaJogi/AravindaJogi/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/KaRtHiK-56/KaRtHiK-56/blob/output/github-contribution-grid-snake-dark.svg)
 
 [![](https://visitcount.itsvg.in/api?id=KaRtHiK-56&icon=8&color=6)](https://visitcount.itsvg.in)
 
