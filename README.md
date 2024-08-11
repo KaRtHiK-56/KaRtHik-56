@@ -6,7 +6,7 @@ Name - 😍 Karthik 😉
 
 
 # 💫 About Me:
-Self-driven and Aspiring Engineer with a keen focus on Artificial Intelligence. Demonstrated dedication and enthusiasm toward applying data-driven decision-making techniques to solve real-world industry challenges. Equipped with the knowledge and skills to add substantial value through the development and implementation of innovative solutions. Committed to contributing to the advancement of the field and making a meaningful impact on the industry.
+Self-driven and Aspiring Engineer with a keen focus on Artificial Intelligence.Adept at utilizing Python for data analytics with proven expertise in creating comprehensive PowerBI reports. Demonstrated ability to develop and implement machine learning models and generate POCs to drive innovative solutions. Skilled in leveraging generative AI technologies and developing efficient applications and chatbots to enhance user experience. Demonstrated dedication and enthusiasm toward applying data-driven decision-making techniques to solve real-world industry challenges. Equipped with the knowledge and skills to add substantial value through the development and implementation of innovative solutions. Committed to contributing to the advancement of the field and making a meaningful impact on the industry.
 
 I am a driven and optimistic individual eagerly seeking a dynamic and demanding platform to demonstrate my skill set while gaining fresh insights. I look at every task with diligence, making sure that the set objectives are completed. My strong organizational and time management abilities empower me to excel across diverse settings.
 
@@ -17,23 +17,13 @@ Technical Proficiencies:
 * Python 3
 * Statistics
 * MySQL
-* Data Analytics 
-* Machine Learning
-* GenerativeAI
+* Data Analytics
 * PowerBI
-
-For my culminating project during the final year of my studies, I developed an Early warning heart disease prediction system utilizing machine learning to predict heart disease.
-
-Additionally, I have successfully completed various projects in machine learning,
-
-1. Layoffs Data Analysis
-2. Israel vs Hamas Data Analysis
-3. Auto ML WebAPP
-4. 
-In web development 
-1. Recent trends happening in industries regarding layoff.
-2. personal portfolio
-3. LSR water supply website
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* GenerativeAI
+* RASA, Flask, Langchain, Llama-index and streamlit
 
  
 Completed my graduation in Engineering in the stream of Electronics and communication with [7.97 CGPA].
@@ -46,9 +36,8 @@ I'm a quick learner and enthusiastic about participating in extracurricular acti
 - 🌱 I’m currently learning Python3
 - 💬 Soon in the near future ask me about Artificial Intelligence stuff
 - 📫 How to reach me: 
-- <img src="https://img.icons8.com/ios-glyphs/30/000000/portfolio.png"/> PORTFOLIO : https://karthikpersonalportfolio56.000webhostapp.com/index.html
-- <img src="https://img.icons8.com/material-outlined/24/000000/blog.png"/> BLOG : https://sites.google.com/view/karthikaiblogs/home    
-- <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/> PERSONAL INSTAGRAM : https://www.instagram.com/prince_6_karthik/
+- <img src="https://img.icons8.com/ios-glyphs/30/000000/portfolio.png"/> PORTFOLIO : https://www.datascienceportfol.io/2KaRtHiK9  
+- <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/> PERSONAL INSTAGRAM : https://www.instagram.com/karthik_sha_/
 - <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/> INSTAGRAM : https://www.instagram.com/_.pythonista._/
 - <img src="https://img.icons8.com/material-rounded/24/000000/medium-logo.png"/> MEDIUM : https://karthikvegeta.medium.com/
 - <img src="https://img.icons8.com/material-outlined/24/000000/gmail-new.png"/>  GMAIL : karthiksurya611@gmail.com
