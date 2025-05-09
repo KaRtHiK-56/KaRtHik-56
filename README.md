@@ -6,38 +6,19 @@ Name - 😍 Karthik 😉
 
 
 # 💫 About Me:
-Self-driven and Aspiring Engineer with a keen focus on Artificial Intelligence.Adept at utilizing Python for data analytics with proven expertise in creating comprehensive PowerBI reports. Demonstrated ability to develop and implement machine learning models and generate POCs to drive innovative solutions. Skilled in leveraging generative AI technologies and developing efficient applications and chatbots to enhance user experience. Demonstrated dedication and enthusiasm toward applying data-driven decision-making techniques to solve real-world industry challenges. Equipped with the knowledge and skills to add substantial value through the development and implementation of innovative solutions. Committed to contributing to the advancement of the field and making a meaningful impact on the industry.
+I’m a Junior Python developer and AI practitioner with over 3 years of experience building intelligent, scalable solutions across chatbot development, data analytics, and Generative AI. My journey began with designing and deploying NLP-driven chatbots using the RASA framework for real-world applications like ticketing systems and grievance redressal, and has since evolved into a deep focus on Generative AI and autonomous agents.
 
-I am a driven and optimistic individual eagerly seeking a dynamic and demanding platform to demonstrate my skill set while gaining fresh insights. I look at every task with diligence, making sure that the set objectives are completed. My strong organizational and time management abilities empower me to excel across diverse settings.
+Currently, I’m focusing on actively building projects that combine LLMs, Retrieval-Augmented Generation (RAG), and agent-based frameworks to create domain-aware assistants.
 
-My expertise lies within the domain of Python, Artificial Intelligence, Data Analysis, and Machine Learning.
+I’m passionate about solving complex user problems with context-aware GenAI systems and believe in sharing knowledge through blogs. I'm always eager to collaborate on impactful AI innovations and contribute to shaping the future of autonomous intelligence. Becoming better everyday by learning exciting technology.
 
-Technical Proficiencies:
-
-* Python 3
-* Statistics
-* MySQL
-* Data Analytics
-* PowerBI
-* Machine Learning
-* Deep Learning
-* Natural Language Processing
-* GenerativeAI
-* RASA, Flask, Langchain, Llama-index and streamlit
-
- 
-Completed my graduation in Engineering in the stream of Electronics and communication with [7.97 CGPA].
-
-My path to Artificial Intelligence started in 2020 when I was attracted to the way it functions. Since then my interest in AI has never been down and wanted to contribute and provide solutions in this domain. For sure in the near future, I will be on my way to contributing, and currently working on becoming an Artificial Intelligence Engineer.Seeking to use my skills and knowledge to make a positive impact as a data scientist.
-
-I'm a quick learner and enthusiastic about participating in extracurricular activities, with my talent I'm looking for an opportunity to take the next step in my career.
+Let’s connect and explore how we can build smarter systems together.
 
 - 🔭 I’m currently working on to improve myself
-- 🌱 I’m currently learning Python3
+- 🌱 I’m currently learning GEN-AI
 - 💬 Soon in the near future ask me about Artificial Intelligence stuff
 - 📫 How to reach me: 
 - <img src="https://img.icons8.com/ios-glyphs/30/000000/portfolio.png"/> PORTFOLIO : https://www.datascienceportfol.io/2KaRtHiK9  
-- <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/> PERSONAL INSTAGRAM : https://www.instagram.com/karthik_sha_/
 - <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/> INSTAGRAM : https://www.instagram.com/_.pythonista._/
 - <img src="https://img.icons8.com/material-rounded/24/000000/medium-logo.png"/> MEDIUM : https://karthikvegeta.medium.com/
 - <img src="https://img.icons8.com/material-outlined/24/000000/gmail-new.png"/>  GMAIL : karthiksurya611@gmail.com
