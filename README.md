@@ -34,6 +34,9 @@ Let’s connect and explore how we can build smarter systems together.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaRtHiK-56&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KaRtHiK-56&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 Profile Views:
+![Profile views](https://counter.kuber.studio/KaRtHiK-56/hacker/count.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaRtHiK-56&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
