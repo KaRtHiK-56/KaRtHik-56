@@ -6,22 +6,44 @@ Name - 😍 Karthik 😉
 
 
 # 💫 About Me:
-I’m a Junior Python developer and AI practitioner with over 3 years of experience building intelligent, scalable solutions across chatbot development, data analytics, and Generative AI. My journey began with designing and deploying NLP-driven chatbots using the RASA framework for real-world applications like ticketing systems and grievance redressal, and has since evolved into a deep focus on Generative AI and autonomous agents.
+AI Agent Engineer specializing in building production-grade LLM-powered systems and autonomous agent workflows.
 
-Currently, I’m focusing on actively building projects that combine LLMs, Retrieval-Augmented Generation (RAG), and agent-based frameworks to create domain-aware assistants.
+I design and develop end-to-end Generative AI solutions — focusing on agent orchestration, contextual reasoning, and real-world system integration.
 
-I’m passionate about solving complex user problems with context-aware GenAI systems and believe in sharing knowledge through blogs. I'm always eager to collaborate on impactful AI innovations and contribute to shaping the future of autonomous intelligence. Becoming better everyday by learning exciting technology.
+Currently working at Manhattan Associates, where I build scalable AI systems that combine structured data, unstructured documents, and real-time APIs to solve complex business problems.
 
-Let’s connect and explore how we can build smarter systems together.
+🔧 What I Do
+Build autonomous AI agents using LangChain and Google ADK
+Design context-aware systems using Model Context Protocol (MCP)
+Develop LLM-powered pipelines with Gemini and other modern models
+Architect scalable backend systems using FastAPI and Python
+Implement RAG, tool integration, and multi-agent workflows
 
-- 🔭 I’m currently working on to improve myself
-- 🌱 I’m currently learning GEN-AI
-- 💬 Soon in the near future ask me about Artificial Intelligence stuff
-- 📫 How to reach me: 
-- <img src="https://img.icons8.com/ios-glyphs/30/000000/portfolio.png"/> PORTFOLIO : https://www.datascienceportfol.io/2KaRtHiK9  
-- <img src="https://img.icons8.com/material-outlined/24/000000/instagram-new--v1.png"/> INSTAGRAM : https://www.instagram.com/_.pythonista._/
-- <img src="https://img.icons8.com/material-rounded/24/000000/medium-logo.png"/> MEDIUM : https://karthikvegeta.medium.com/
-- <img src="https://img.icons8.com/material-outlined/24/000000/gmail-new.png"/>  GMAIL : karthiksurya611@gmail.com
+🚀 Key Impact Areas
+Enabling natural language interaction with enterprise data systems
+Building document intelligence platforms for automated data extraction
+Creating API-driven AI ecosystems for real-time decision-making
+Reducing manual effort through automation and intelligent workflows
+
+🧠 What Sets Me Apart
+I focus on building complete AI systems, not just models:
+From LLM integration → agent design → deployment → optimization
+Strong emphasis on production readiness, scalability, and real-world impact
+
+⚡ Current Focus
+Building domain-aware, context-driven AI agents that can reason, act, and integrate seamlessly into enterprise environments.
+
+🌐 Portfolio & Work
+
+Portfolio: 
+https://karthik-56.github.io/Karthik_Portfolio/
+
+GitHub: 
+https://github.com/KaRtHiK-56
+
+Medium: 
+https://karthikvegeta.medium.com/
+
 - ⚡ Fun fact: I got inspired by Tony Stark ✌️ and Motivated by 💪 Prince Vegeta ♕
 
 ## 🌐 Socials:
