@@ -36,7 +36,7 @@ Building domain-aware, context-driven AI agents that can reason, act, and integr
 🌐 Portfolio & Work
 
 Portfolio: 
-https://karthik-56.github.io/Karthik_Portfolio/
+https://karthik29ai.netlify.app/
 
 GitHub: 
 https://github.com/KaRtHiK-56
