@@ -80,11 +80,11 @@ I write in-depth technical articles on LLM frameworks, agent design, and emergin
 
 ### Top contributed repos
 
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=KaRtHiK-56&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=KaRtHiK-56&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&v=2)
 
 ### Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KaRtHiK-56&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KaRtHiK-56&theme=discord&no-frame=false&no-bg=false&margin-w=4&v=2)
 
 ### Profile views
 
